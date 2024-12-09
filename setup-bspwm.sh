@@ -2,6 +2,7 @@
 
 # Install necessary packages
 sudo apt-get -y install bspwm
+sudo apt-get -y install nemo
 sudo apt-get -y install xdg-user-dirs
 sudo apt-get -y install xdg-user-dirs-gtk
 
