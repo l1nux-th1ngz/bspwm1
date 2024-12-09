@@ -21,6 +21,7 @@ sudo apt-get -y install xbacklight
 sudo apt-get -y install xinit
 sudo apt-get -y install policykit-1
 sudo apt-get -y install policykit-1-gnome
+sudo apt-get -y install zsh 
 
 # Create the directories
 mkdir -p ~/.config/bspwm/scripts
